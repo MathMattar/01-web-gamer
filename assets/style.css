@@ -1,0 +1,245 @@
+html {
+    font-family: 'Roboto Slab', serif;
+    font-size: 62.5%;
+    box-sizing: border-box
+}
+
+/* cabeçalho */
+
+.nav-content {
+    display: flex;
+    width: 100%;
+    padding: 3rem 0;
+    background-color: antiquewhite;
+}
+
+.logo {
+    display: flex;
+    margin-left: 2%;
+    cursor: pointer;
+    flex-direction: row;
+    width: 63%;
+}
+
+.nav {
+    align-self: center;
+    margin: 0 auto;
+}
+
+.list-nav {
+    display: flex;
+}
+
+.item-nav {
+    color: gray;
+    padding-right: 5rem;
+    font-weight: bold;
+    font-size: 2rem;
+    transition: 1s;
+}
+
+.item-nav:hover {
+    transform: scale(1.1);
+    color: darkblue;
+    cursor: pointer;
+}
+
+.main {
+    margin: 2%;
+}
+
+.top-session {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+/* sessão 01 */
+
+.content-banner {
+    width: 64%;
+}
+
+.banner {
+    max-width: 100%;
+    max-height: 100%;
+    cursor: pointer;
+}
+
+.img-banner {
+    width: 100%;
+}
+
+.news-banner {
+    display: flex;
+    flex-direction: row;
+    padding: 3rem 0;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.headline-banner {
+    width: 50%;
+    font-size: 5rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.headline-banner:hover {
+    cursor: pointer;
+    color: aqua;
+}
+
+.secondary-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.matter-banner {
+    font-size: 1.6rem;
+    text-align: center;
+    color: gray;
+    margin-bottom: 2rem;
+}
+
+.button-banner {
+    font-size: 2rem;
+    color: white;
+    background: red;
+    border: 0.5rem solid red;
+    border-radius: 0.25rem;
+    width: 20rem;
+    height: 5rem;
+    transition: 1s;
+}
+
+.button-banner:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+/* sessão 02 */
+
+.content-new {
+    width: 30%;
+    margin-left: 2%;
+    background: midnightblue;
+    padding: 3rem 2%;
+}
+
+.title-new {
+    color: yellow;
+    font-size: 5rem;
+    margin-bottom: 2rem;
+}
+
+.title-new:hover {
+    color: aqua;
+    cursor: pointer;
+}
+
+.item-new {
+    list-style: none;
+    margin: 2rem auto;
+}
+
+.headline-new {
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.headline-new:hover {
+    cursor: pointer;
+    color: aqua;
+}
+
+.matter-new {
+    font-size: 1.6rem;
+    color: grey;
+    margin-bottom: 2rem;
+}
+
+.line {
+    color: transparent;
+    border-bottom: 2px solid white;
+}
+
+/* sessão 03 */
+
+.content-popular {
+    margin: 5rem 0;
+}
+
+.popular {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.item-popular {
+    display: flex;
+}
+
+.img-popular {
+    margin: 0 2rem;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.img-popular:hover {
+    transform: scale(1.10)
+}
+
+.bottom-session {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    margin-left: 4rem;
+}
+
+.numbering-popular {
+    font-size: 5rem;
+    color: grey;
+    opacity: .5;
+    margin-bottom: 100%;
+}
+
+.news-popular {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.headline-popular {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 2rem 0;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.headline-popular:hover {
+    transform: scale(1.05);
+    color: aqua;
+}
+
+.matter-popular {
+    font-size: 1.6;
+    margin: 2rem 0;
+    caret-color: grey;
+}
+
+/* rodapé */
+
+footer {
+    background: black;
+    height: 30rem;
+}
