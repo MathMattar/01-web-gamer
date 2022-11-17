@@ -18,7 +18,7 @@ html {
     margin-left: 2%;
     cursor: pointer;
     flex-direction: row;
-    width: 63%;
+    width: 61.5%;
 }
 
 .nav {
@@ -102,6 +102,7 @@ html {
     font-size: 1.6rem;
     text-align: center;
     color: gray;
+    padding: 0 1rem;
     margin-bottom: 2rem;
 }
 
@@ -123,41 +124,41 @@ html {
 
 /* sessão 02 */
 
-.content-new {
+.content-popular {
     width: 30%;
     margin-left: 2%;
     background: midnightblue;
     padding: 3rem 2%;
 }
 
-.title-new {
+.title-popular {
     color: yellow;
-    font-size: 5rem;
-    margin-bottom: 2rem;
+    font-size: 4rem;
+    margin-bottom: 5rem;
 }
 
-.title-new:hover {
+.title-popular:hover {
     color: aqua;
     cursor: pointer;
 }
 
-.item-new {
+.item-popular {
     list-style: none;
     margin: 2rem auto;
 }
 
-.headline-new {
+.headline-popular {
     font-size: 2rem;
     color: white;
     margin-bottom: 2rem;
 }
 
-.headline-new:hover {
+.headline-popular:hover {
     cursor: pointer;
     color: aqua;
 }
 
-.matter-new {
+.matter-popular {
     font-size: 1.6rem;
     color: grey;
     margin-bottom: 2rem;
@@ -170,71 +171,84 @@ html {
 
 /* sessão 03 */
 
-.content-popular {
+.content-trending {
     margin: 5rem 0;
 }
 
-.popular {
+.division {
+    color: transparent;
+    border-bottom: 2px solid blue;
+}
+
+.title-trending {
+    font-size: 4rem;
+    margin: 2rem 0 5rem;
+}
+
+.trending {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-content: center;
 }
 
-.item-popular {
+.item-trending {
     display: flex;
 }
 
-.img-popular {
-    margin: 0 2rem;
+.img-trending {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 0 1rem 0 3rem;
     cursor: pointer;
     transition: 1s;
 }
 
-.img-popular:hover {
+.img-trending:hover {
     transform: scale(1.10)
 }
 
 .bottom-session {
     display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    align-items: center;
-    justify-content: center;
-    margin-left: 4rem;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: flex-start;
+    margin-left: 1rem;
 }
 
-.numbering-popular {
+.numbering-trending {
+    position: absolute;
     font-size: 5rem;
     color: grey;
     opacity: .5;
     margin-bottom: 100%;
 }
 
-.news-popular {
+.news-trending {
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: flex-end;
 }
 
-.headline-popular {
-    font-size: 2rem;
+.headline-trending {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    font-size: 2.2rem;
     font-weight: bold;
     margin: 2rem 0;
     cursor: pointer;
     transition: 1s;
 }
 
-.headline-popular:hover {
+.headline-trending:hover {
     transform: scale(1.05);
     color: aqua;
 }
 
-.matter-popular {
-    font-size: 1.6;
-    margin: 2rem 0;
-    caret-color: grey;
+.matter-trending {
+    font-size: 1.6rem;
+    color: grey;
 }
 
 /* rodapé */
