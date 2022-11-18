@@ -8,11 +8,15 @@ A escolha do projeto foi feita tendo em vista me desafiar a conhecer novas tags 
 
 Conheci novas formas de desenvolver layout utilizando "display: flex;", "display: grid;" e suas propriedades. Só assim foi possível desenvolver o design proposto pela página de inspiração, julgo ter sido isso o ponto em destaque do desenvolvimento. 
 
+------
+
 
 
 ### :page_facing_up: Sobre o Desafio
 
 Com objetivo de praticar programação e simular situações cotidianas, os mentores proporão que todo o desenvolvimento fosse realizado dentro de um prazo de seis dias. Ficou a critério dos mentorados a escolha do projeto a ser desenvolvido.
+
+------
 
 
 
@@ -20,17 +24,13 @@ Com objetivo de praticar programação e simular situações cotidianas, os ment
 
 Mentoria aplicada por Pedro Marins e Henrique Andrada, com objetivo de inserir mentorados ao mercado de trabalho. 
 
+------
+
 
 
 ### :copyright: Inspiração e Créditos
 
-Inspiração para o desenvolvimento retirada do site https://www.frontendmentor.io/. 
-
-![](C:\Users\Mathews\Documents\Conquiste sua vaga\site-de-noticias\imagens\desktop-design.jpg)
-
-
-
-As noticias vinculadas ao projeto foram retiradas dos seguintes sites:
+Noticias vinculadas ao projeto foram retiradas dos seguintes sites:
 
 
 
@@ -41,6 +41,12 @@ As noticias vinculadas ao projeto foram retiradas dos seguintes sites:
 
 
 
+Inspiração para o desenvolvimento retirado do site https://www.frontendmentor.io/. 
+
+------
+
+
+
 ### :briefcase: Tarefas
 
 :white_check_mark: Desenvolvimento com HTML
@@ -48,6 +54,8 @@ As noticias vinculadas ao projeto foram retiradas dos seguintes sites:
 :white_check_mark: Criar estilos e layouts com o CSS
 
 :white_check_mark: Desenvolver página responsiva 
+
+------
 
 
 
