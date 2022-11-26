@@ -4,7 +4,7 @@ Esta é uma solução inspirada no desfio [News homepage do site Frontend Mentor
 
 ## Sumário
 
-- [Visão Geral](#Visão Geral)
+- [Visão geral](#Visão geral)
   - [Desafio](#Desafio)
   - [Screenshot](#Screenshot)
   - [Link](#Link)
