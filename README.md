@@ -1,70 +1,111 @@
 # Gamer News Homepage 
 
+Esta é uma solução inspirada no desfio [News homepage do site Frontend Mentor].(https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl) Os desafios do Frontend Mentor ajudam a melhorar habilidades de codificação criando projetos realistas.
 
+## Sumário
 
-### :page_facing_up: Sobre o Projeto
+- [Visão Geral](#Visão Geral)
+  - [Desafio](#Desafio)
+  - [Screenshot](#Screenshot)
+  - [Link](#Link)
 
-A escolha do projeto foi feita tendo em vista me desafiar a conhecer novas tags e funcionalidades, assim como aprimorar os conhecimentos previamente adquiridos. 
+- [Processo](#Processo)
+  - [Tecnologias](#Tecnologias)
+  - [Aprendizado](#Aprendizado)
+  - [Recursos úteis](#Recursos úteis)
 
-Conheci novas formas de desenvolver layout utilizando "display: flex;", "display: grid;" e suas propriedades. Só assim foi possível desenvolver o design proposto pela página de inspiração, julgo ter sido isso o ponto em destaque do desenvolvimento. 
+- [Autor](#Autor)
 
-------
+  
 
+## Visão geral
 
-
-### :page_facing_up: Sobre o Desafio
-
-Com objetivo de praticar programação e simular situações cotidianas, os mentores proporão que todo o desenvolvimento fosse realizado dentro de um prazo de seis dias. Ficou a critério dos mentorados a escolha do projeto a ser desenvolvido.
-
-------
-
-
-
-### :books: Conquiste sua Vaga 
-
-Mentoria aplicada por Pedro Marins e Henrique de Andrade, com objetivo de inserir mentorados ao mercado de trabalho. 
-
-------
+Este é meu primeiro projeto desenvolvido de forma individual. Todo o layout da página foi inspirado no desafio [news homepage do Fronted Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl), a proposta é utilizar qualquer linguagem, framework ou ferramentas para concluir o desafio. Decidi dar um toque pessoal e desenvolver o conteúdo com algo que tivesse uma conexão comigo, assim fugindo um pouco da proposta do site.
 
 
 
-### :copyright: Inspiração e Créditos
+### Desafio
 
-Noticias vinculadas ao projeto foram retiradas dos seguintes sites:
+Os usuários devem ser capazes de:
 
-
-
-- https://www.techtudo.com.br/noticias/2022/10/god-of-war-ragnarok-ganha-trailer-oficial-de-lancamento-veja.ghtml
-- https://www.tecmundo.com.br/voxel/254455-171-gta-brasileiro-chega-17-pc-ganha-novo-trailer.htm
-- https://www.tecmundo.com.br/voxel/254221-god-of-war-tem-varias-referencias-egito-vem-ai.htm
-- https://adrenaline.com.br/noticias/v/80231/parte-do-codigo-fonte-de-gta-5-esta-disponivel-no-github
+Ver o layout ideal independente do tamanho da tela do dispositivo.
 
 
 
-Inspiração para o desenvolvimento retirado do site https://www.frontendmentor.io/. 
+## Screenshot
 
-------
+### Mobile design
 
 
 
-### :briefcase: Tarefas
-
-:white_check_mark: Desenvolvimento com HTML
-
-:white_check_mark: Criar estilos e layouts com o CSS
-
-:white_check_mark: Desenvolver página responsiva 
+<p align="center">
+    <img width="375px" src="/presentation/mobile.png"></img>
+</p>
 
 ------
 
 
 
-### :computer: Tecnologias 
-
-- HTML
-- CSS
+### Tablets design
 
 
 
+<p align="center">
+    <img width="420px" src="/presentation/tablet.png" align="center"></img>
+</p>
 
+------
+
+
+
+### Desktop design
+
+<p  align="center"><img width="720px" src="./presentation/desktop.png" align="center"></img></p>
+
+------
+
+
+
+### Result of my work
+
+<p  align="center"><img width="1920px" src="./presentation/hd.png" align="center"></img></p>
+
+
+
+### link
+
+
+
+- Site URL: https://mathmattar.github.io/web-gamer/
+
+
+
+## Processo
+
+### Tecnologias
+
+- Flexbox
+- Grid
+- Pseudo-classes
+
+
+
+### Aprendizado
+
+Conheci novas formas de desenvolver layout utilizando flexbox, grid layout e suas propriedades. Só assim foi possível desenvolver o design proposto, julgo ter sido isso o ponto em destaque do desenvolvimento. Além de praticar técnicas para deixar o layout responsivo que trouxe melhoras consideráveis no entendimento da atividade.
+
+
+
+### Recursos úteis
+
+- [CSS units](https://www.alura.com.br/artigos/guia-de-unidades-no-css)
+- [Grid Layout](https://www.w3schools.com/css/css_grid.asp)
+- [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+- [:hover](https://www.w3schools.com/css/css_pseudo_classes.asp)
+
+
+
+## Autor
+
+- Página pessoal - [Mathews Mattar](https://www.linkedin.com/in/mathewsmattar/)
 
