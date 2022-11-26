@@ -51,7 +51,7 @@ Ver o layout ideal independente do tamanho da tela do dispositivo.
 
 
 <p align="center">
-    <img width="420px" src="/presentation/tablet.png" align="center"></img>
+    <img width="768px" src="/presentation/tablet.png" align="center"></img>
 </p>
 
 ------
@@ -60,7 +60,7 @@ Ver o layout ideal independente do tamanho da tela do dispositivo.
 
 ### Desktop design
 
-<p  align="center"><img width="720px" src="./presentation/desktop.png" align="center"></img></p>
+<p  align="center"><img width="1080px" src="./presentation/desktop.png" align="center"></img></p>
 
 ------
 
