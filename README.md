@@ -22,7 +22,7 @@ Com objetivo de praticar programação e simular situações cotidianas, os ment
 
 ### :books: Conquiste sua Vaga 
 
-Mentoria aplicada por Pedro Marins e Henrique Andrada, com objetivo de inserir mentorados ao mercado de trabalho. 
+Mentoria aplicada por Pedro Marins e Henrique de Andrade, com objetivo de inserir mentorados ao mercado de trabalho. 
 
 ------
 
