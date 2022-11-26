@@ -4,7 +4,7 @@ Esta é uma solução inspirada no desfio [News homepage do site Frontend Mentor
 
 ## Sumário
 
-- [Visão geral](#Visão geral)
+- [Resumo](#Resumo)
   - [Desafio](#Desafio)
   - [Screenshot](#Screenshot)
   - [Link](#Link)
@@ -12,13 +12,13 @@ Esta é uma solução inspirada no desfio [News homepage do site Frontend Mentor
 - [Processo](#Processo)
   - [Tecnologias](#Tecnologias)
   - [Aprendizado](#Aprendizado)
-  - [Recursos úteis](#Recursos úteis)
+  - [Recursos](#Recursos)
 
 - [Autor](#Autor)
 
   
 
-## Visão geral
+## Resumo
 
 Este é meu primeiro projeto desenvolvido de forma individual. Todo o layout da página foi inspirado no desafio [news homepage do Fronted Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl), a proposta é utilizar qualquer linguagem, framework ou ferramentas para concluir o desafio. Decidi dar um toque pessoal e desenvolver o conteúdo com algo que tivesse uma conexão comigo, assim fugindo um pouco da proposta do site.
 
@@ -96,7 +96,7 @@ Conheci novas formas de desenvolver layout utilizando flexbox, grid layout e sua
 
 
 
-### Recursos úteis
+### Recursos
 
 - [CSS units](https://www.alura.com.br/artigos/guia-de-unidades-no-css)
 - [Grid Layout](https://www.w3schools.com/css/css_grid.asp)
