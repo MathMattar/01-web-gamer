@@ -1,6 +1,6 @@
 # Gamer News Homepage 
 
-Esta é uma solução inspirada no desfio [News homepage do site Frontend Mentor].(https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl) Os desafios do Frontend Mentor ajudam a melhorar habilidades de codificação criando projetos realistas.
+Esta é uma solução inspirada no desfio [News homepage do site Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Os desafios do Frontend Mentor ajudam a melhorar habilidades de codificação criando projetos realistas.
 
 ## Sumário
 
